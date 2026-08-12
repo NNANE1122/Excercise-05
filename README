@@ -1,0 +1,16 @@
+CSS helps with the styling of your webpage
+selectors helps with mostly the targetting that is what element are we styling
+Declaration refers to what is inside the braces
+ Inline css is css written inside an html file
+ internal ccs is css written inside a style document in an html document
+ External css is css placed in an external file 
+ Class is when you are targeting selected  elements
+ Attribute selectors target elements based on their attribute
+ Grouping selctors are selectors that target several elements
+ Comments help us to shed more light on the css file
+ Css cascade refers to the system that css uses to style a system when many rules are involved
+ so the rules are importance, specifity and inheritance
+
+
+
+    
